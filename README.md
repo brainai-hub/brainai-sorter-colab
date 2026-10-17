@@ -1,6 +1,7 @@
 # BrainAI Sorter · Step 4 Modeling (Colab)
 
-BrainAI Sorter 코스의 **Step 4 모델 훈련 노트북**만 담은 공개 저장소예요.
+BrainAI Sorter 코스의 **Step 4 모델 훈련 노트북(Colab · 선택)**만 담은 공개 저장소예요.
+기본은 PC 에서 훈련하는 `Step 4 - Modeling (PC).ipynb` (코스 zip 안) 이고, PC 가 너무 느릴 때 이 Colab 노트북을 써요.
 사이트(https://brainai-sorter.vercel.app)의 **"Colab 에서 열기"** 버튼이 이 노트북을 엽니다.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brainai-hub/brainai-sorter-colab/blob/main/Step%204%20-%20Modeling%20(Colab).ipynb)
